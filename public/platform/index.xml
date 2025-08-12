@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Lab Initio Discovery Platform on Lab Initio</title>
+    <link>http://localhost:1313/platform/</link>
+    <description>Recent content in The Lab Initio Discovery Platform on Lab Initio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/platform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Team</title>
+      <link>http://localhost:1313/platform/team/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/platform/team/</guid>
+      <description>&lt;style&gt;&#xA;  .team-page-container {&#xA;    max-width: 1100px;&#xA;    margin: 2rem auto;&#xA;    padding: 1rem;&#xA;    text-align: center;&#xA;  }&#xA;  .team-cards-container {&#xA;    display: flex;&#xA;    flex-wrap: wrap;&#xA;    gap: 1.5rem;&#xA;    justify-content: center;&#xA;    margin-top: 2rem;&#xA;  }&#xA;  .team-card {&#xA;    background: #fff;&#xA;    border: 1px solid #ddd;&#xA;    border-radius: 8px;&#xA;    padding: 2rem 1.5rem;&#xA;    flex: 1 1 250px;&#xA;    max-width: 280px;&#xA;    box-shadow: 0 4px 6px rgba(0,0,0,0.05);&#xA;    text-align: center;&#xA;    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;&#xA;    display: flex;&#xA;    flex-direction: column;&#xA;    align-items: center;&#xA;  }&#xA;  .team-card:hover {&#xA;    transform: translateY(-5px);&#xA;    box-shadow: 0 8px 15px rgba(0,0,0,0.1);&#xA;  }&#xA;  .team-headshot {&#xA;    width: 120px;&#xA;    height: 120px;&#xA;    border-radius: 50%;&#xA;    object-fit: cover;&#xA;    margin-bottom: 1rem;&#xA;    border: 3px solid #f0f0f0;&#xA;  }&#xA;  .team-card h3 {&#xA;    margin-top: 0;&#xA;    margin-bottom: 0.5rem;&#xA;    font-size: 1.3rem;&#xA;    color: #2c3e50;&#xA;  }&#xA;  .team-card .expertise {&#xA;    font-size: 0.95rem;&#xA;    color: #555;&#xA;    min-height: 40px;&#xA;    margin-bottom: 1rem;&#xA;  }&#xA;  .links-container {&#xA;    margin-top: auto; /* Pushes links to the bottom of the card */&#xA;    width: 100%;&#xA;    display: flex;&#xA;    flex-direction: column;&#xA;    gap: 0.75rem;&#xA;    align-items: center;&#xA;  }&#xA;  .team-link {&#xA;    display: block;&#xA;    width: 85%;&#xA;    padding: 0.6rem 0;&#xA;    border: 1px solid #ccc;&#xA;    border-radius: 20px;&#xA;    text-decoration: none;&#xA;    color: #0056b3;&#xA;    font-weight: bold;&#xA;    transition: background-color 0.2s, color 0.2s;&#xA;  }&#xA;  .team-link:hover {&#xA;    background-color: #0056b3;&#xA;    color: #fff;&#xA;  }&#xA;  .contact-footer {&#xA;    margin-top: 3rem;&#xA;    font-size: 1.1rem;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;team-page-container&#34;&gt;&#xA;  &lt;h1&gt;Meet the Experts&lt;/h1&gt;&#xA;  &lt;p&gt;Our team unites world-leading expertise in quantum chemistry, artificial intelligence, and robotic automation to solve the most complex challenges in chemical discovery.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solutions &amp; Case Studies</title>
+      <link>http://localhost:1313/platform/solutions/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/platform/solutions/</guid>
+      <description>&lt;style&gt;&#xA;  .case-study {&#xA;    border: 1px solid #e9ecef;&#xA;    border-radius: 8px;&#xA;    padding: 2rem;&#xA;    margin-bottom: 2.5rem;&#xA;    background-color: #f8f9fa;&#xA;  }&#xA;  .case-study h2 {&#xA;    margin-top: 0;&#xA;    color: #0056b3;&#xA;    border-bottom: 2px solid #dee2e6;&#xA;    padding-bottom: 0.5rem;&#xA;    margin-bottom: 1rem;&#xA;  }&#xA;  .case-study h3 {&#xA;    font-size: 1.1rem;&#xA;    color: #343a40;&#xA;    margin-top: 1.5rem;&#xA;  }&#xA;  .case-study ul {&#xA;    list-style-type: none;&#xA;    padding-left: 0;&#xA;  }&#xA;  .case-study li a {&#xA;    font-weight: bold;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;&lt;strong&gt;Our AI-Discovery Engine is a globally proven platform. We partner with the world&amp;rsquo;s leading innovators in science and technology to transform the most complex challenges into breakthrough solutions. Explore our case studies to see how.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Partner With Us</title>
+      <link>http://localhost:1313/platform/partner-with-us/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/platform/partner-with-us/</guid>
+      <description>&lt;style&gt;&#xA;  .partner-page-container {&#xA;    text-align: center;&#xA;    padding: 4rem 1rem;&#xA;    background-color: #f8f9fa;&#xA;    border-radius: 8px;&#xA;    margin-top: 2rem;&#xA;  }&#xA;  .partner-page-container h1 {&#xA;    margin-bottom: 1rem;&#xA;  }&#xA;  .partner-page-container p {&#xA;    font-size: 1.1rem;&#xA;    max-width: 600px;&#xA;    margin: 0 auto 1.5rem auto;&#xA;  }&#xA;  .brochure-button {&#xA;    display: inline-flex;&#xA;    align-items: center;&#xA;    gap: 0.75rem;&#xA;    padding: 0.8rem 1.5rem;&#xA;    background-color: #0056b3;&#xA;    color: #fff;&#xA;    border: 1px solid #0056b3;&#xA;    border-radius: 5px;&#xA;    text-decoration: none;&#xA;    font-weight: bold;&#xA;    transition: background-color 0.2s;&#xA;    margin: 1rem 0;&#xA;  }&#xA;  .brochure-button:hover {&#xA;    background-color: #004494;&#xA;  }&#xA;  .brochure-button svg {&#xA;    width: 18px;&#xA;    height: 18px;&#xA;    fill: currentColor;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;partner-page-container&#34;&gt;&#xA;  &lt;h1&gt;Partnership Opportunities&lt;/h1&gt;&#xA;  &lt;p&gt;Full details on our collaborative partnership models are coming soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The AI-Discovery Engine</title>
+      <link>http://localhost:1313/platform/discovery-engine/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/platform/discovery-engine/</guid>
+      <description>&lt;style&gt;&#xA;  .discovery-engine-diagram {&#xA;    text-align: center;&#xA;    margin: 1.5rem auto;&#xA;    max-width: 400px;&#xA;  }&#xA;  .discovery-engine-diagram img {&#xA;    max-width: 100%;&#xA;    height: auto;&#xA;    border-radius: 2px;&#xA;    box-shadow: 0 2px 6px rgba(0,0,0,0.1);&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Our AI-Discovery Engine is a powerful, closed-loop system integrating predictive simulation, AI, and automated robotics. This creates an accelerated discovery loop—a synergistic process that dramatically shortens the design-test-learn cycle and delivers market-ready solutions with unprecedented speed.&lt;/p&gt;&#xA;&lt;!-- === NEW DIAGRAM SECTION START === --&gt;&#xA;&lt;div class=&#34;discovery-engine-diagram&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/ai-discovery-engine.png&#34; alt=&#34;Diagram of the AI-Discovery Engine loop showing Predictive Simulation feeding into Robotic Validation, which feeds into Self-Improving AI Refinement, completing the cycle.&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;!-- === NEW DIAGRAM SECTION END === --&gt;&#xA;&lt;h2 id=&#34;how-it-works-accelerating-the-discovery-cycle&#34;&gt;How It Works: Accelerating the Discovery Cycle&lt;/h2&gt;&#xA;&lt;p&gt;Our process is a continuous cycle of prediction, validation, and refinement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The AI Breakthrough: Redefining Chemical Prediction with Microsoft Research</title>
+      <link>http://localhost:1313/platform/ai-breakthrough/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/platform/ai-breakthrough/</guid>
+      <description>&lt;p&gt;For decades, a fundamental problem has limited the predictive power of computational chemistry. Now, through a groundbreaking collaboration between Lab Initio and Microsoft Research, we have developed a deep-learning model that overcomes this challenge, achieving the accuracy required to reliably predict experimental outcomes and transform materials discovery.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-grand-challenge-a-60-year-old-problem-in-chemistry&#34;&gt;The Grand Challenge: A 60-Year-Old Problem in Chemistry&lt;/h3&gt;&#xA;&lt;p&gt;Density Functional Theory (DFT) is the workhorse method for simulating molecules and materials, but its accuracy has always been limited by a crucial, unknown component: the exchange-correlation (XC) functional. For 60 years, scientists have created hundreds of approximations, but progress toward experimental accuracy had stalled. This bottleneck meant that simulations were more often used to explain experiments rather than to predict them, slowing down the pace of innovation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

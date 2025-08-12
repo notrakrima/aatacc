@@ -1,0 +1,18 @@
+<header class="site-header">
+  <div class="container">
+          <div class="logo">
+        <!-- Link the banner image back to the homepage -->
+        <a href="{{ .Site.BaseURL }}">
+          <img src="/images/TopBanner2.jpg" alt="AI-Driven Quantum Chemistry Banner" class="header-banner"> 
+        </a> 
+      </div>
+  <nav class="main-nav">
+  <ul>
+    {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+    {{ end }}
+  </ul>
+</nav>
+</div>
+</header>
+
