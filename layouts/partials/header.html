@@ -1,18 +1,26 @@
 <header class="site-header">
   <div class="container">
-          <div class="logo">
-        <!-- Link the banner image back to the homepage -->
-        <a href="{{ .Site.BaseURL }}">
-          <img src="/images/TopBanner2.jpg" alt="AI-Driven Quantum Chemistry Banner" class="header-banner"> 
-        </a> 
-      </div>
-  <nav class="main-nav">
-  <ul>
-    {{ range .Site.Menus.main }}
-      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-    {{ end }}
-  </ul>
-</nav>
-</div>
+    <div class="logo">
+      <!-- Link the logo image back to the homepage -->
+      <a href="{{ "/about/" | relURL }}">
+        <img src="{{ "/img/logo.png" | relURL }}" alt="AATACC Logo" style="height: 100px; width: auto; vertical-align: middle;">
+      </a>
+    </div>
+    <nav class="main-nav">
+      <ul>
+        {{ range .Site.Menus.main }}
+          <li>
+            <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+            {{ if .HasChildren }}
+              <ul class="submenu">
+                {{ range .Children }}
+                  <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          </li>
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
 </header>
-

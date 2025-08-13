@@ -1,6 +1,6 @@
-baseURL = "https://labinitio.org/" 
+baseURL = "https://aatacc.org/" 
 languageCode = 'en-us'
-title = 'Lab Initio'
+title = 'AATACC'
 theme = 'netlify-basic'
 
 [params]
@@ -11,84 +11,46 @@ theme = 'netlify-basic'
 # ===========================================================================
 
 [[menu.main]]
-  name = "Home"
-  url = "/"
+# ===========================================================================
+# AATACC Main Navigation Menu
+# ===========================================================================
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 20
+  identifier = "about"
+
+[[menu.main]]
+  name = "Mission"
+  url = "/about/mission/"
+  parent = "about"
   weight = 10
 
 [[menu.main]]
-  name = "Publications"
-  url = "/publications/"
+  name = "Board"
+  url = "/about/board/"
+  parent = "about"
   weight = 20
 
 [[menu.main]]
-  name = "AI"
-  url = "/platform/"
-  weight = 25 # Adjusted weight to place it after Publications
-  identifier = "platform"
-
-[[menu.main]]
-  name = "AI Breakthrough"
-  url = "/platform/ai-breakthrough/"
-  weight = 10
-  parent = "platform"
-
-[[menu.main]]
-  name = "The Discovery Engine"
-  url = "/platform/discovery-engine/"
-  weight = 20
-  parent = "platform"
-
-[[menu.main]]
-  name = "Solutions & Case Studies"
-  url = "/platform/solutions/"
+  name = "Awards & Funding"
+  url = "/awards-funding/"
   weight = 30
-  parent = "platform"
-
-[[menu.main]]
-  name = "Partner With Us"
-  url = "/platform/partner-with-us/"
-  weight = 40
-  parent = "platform"
-
-[[menu.main]]
-  name = "Awards"
-  url = "/awards/"
-  weight = 30
-
-[[menu.main]]
-  name = "Profile"
-  url = "/academic_profile/"
-  weight = 40
-
-[[menu.main]]
-  name = "Editor"
-  url = "/editor/"
-  weight = 50
-
-[[menu.main]]
-  name = "Explore"
-  url = "/explore/"
-  weight = 60
-
-[[menu.main]]
-  name = "XYZ"
-  url = "/xyzview/"
-  weight = 70
-
-[[menu.main]]
-  name = "Join"
-  url = "/join/"
-  weight = 80
-
-[[menu.main]]
-  name = "Bulletin"
-  url = "/bulletin/"
-  weight = 85
+  hasChildren = true
+  [[menu.main.children]]
+    name = "Distinguished Lecturers"
+    url = "/awards-funding/distinguished-lecturers/"
+    weight = 1
+  [[menu.main.children]]
+    name = "International Fellows"
+    url = "/awards-funding/international-fellows/"
+    weight = 2
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 90
+  weight = 100
 
 # ===========================================================================
 # Markup Settings

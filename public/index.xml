@@ -1,145 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Lab Initio</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Lab Initio</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2 PhD positions at UNSW</title>
-      <link>http://localhost:1313/bulletin/2025-08-12-2-phd-positions-at-unsw-689ae0/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bulletin/2025-08-12-2-phd-positions-at-unsw-689ae0/</guid>
-      <description>&lt;p&gt;Two PhD scholarships are available in the Mechanism and Modelling Group (&lt;a href=&#34;https://sites.google.com/view/mmg-unsw/home&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://sites.google.com/view/mmg-unsw/home&lt;/a&gt;&#xA;) led by A/Prof Junming Ho in the School of Chemistry, UNSW. Research scholarships are valued at $38,438 pa (tax-free) for 3.5 years.&lt;/p&gt;&#xA;&lt;p&gt;The ideal candidate should demonstrate the following qualifications, experience and interests:&lt;/p&gt;&#xA;&lt;p&gt;Bachelor of Science with Honours in Chemistry (First class or equivalent).&#xA;A strong background and/or strong motivation for research in computational chemistry, reaction mechanisms and physical organic chemistry.&#xA;Experience and/or strong interest in computational analysis, quantum chemistry, classical simulations and collaborating with experimental groups.&#xA;Excellent problem-solving and strong writing/communication skills and ability to work independently.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>3-year postdoc position at RMIT</title>
-      <link>http://localhost:1313/bulletin/2025-08-12-3-year-postdoc-position-at-rmit-689ae0/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bulletin/2025-08-12-3-year-postdoc-position-at-rmit-689ae0/</guid>
-      <description>&lt;p&gt;A 3-year postdoctoral fellow with Prof. Irene Yarovsky to work on an ARC Discovery project titled Next generation lipid nanoparticles. Applications close on Sunday 24 August 2025 at 11:59 PM. The job ad can be found on the RMIT Careers page:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rmit.wd3.myworkdayjobs.com/RMIT_Careers/job/Melbourne/Postdoctoral-Research-Fellow---Molecular-Simulation-of-Lipid-Nanoparticles_JR40915&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://rmit.wd3.myworkdayjobs.com/RMIT_Careers/job/Melbourne/Postdoctoral-Research-Fellow---Molecular-Simulation-of-Lipid-Nanoparticles_JR40915&lt;/a&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Postdoc – University of Melbourne</title>
-      <link>http://localhost:1313/bulletin/2025-08-12-postdoc--university-of-melbourne-689ae2/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bulletin/2025-08-12-postdoc--university-of-melbourne-689ae2/</guid>
-      <description>&lt;p&gt;The Goerigk Group at the University of Melbourne is looking for a postdoctoral fellow for an industry-funded project. The position is limited to 12 months and at 0.9 FTE.&#xA;More information can be found here: &lt;a href=&#34;https://unimelb.wd105.myworkdayjobs.com/UoM_External_Career/job/Parkville/Research-Fellow-in-Theoretical-Quantum-Chemistry_JR-002141&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://unimelb.wd105.myworkdayjobs.com/UoM_External_Career/job/Parkville/Research-Fellow-in-Theoretical-Quantum-Chemistry_JR-002141&lt;/a&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Postdoc – University of Newcastle</title>
-      <link>http://localhost:1313/bulletin/2025-08-12-postdoc--university-of-newcastle-689ae2/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bulletin/2025-08-12-postdoc--university-of-newcastle-689ae2/</guid>
-      <description>&lt;p&gt;Prof. Alister Page has a postdoctoral position available as part of the ARC Centre of Excellence for Enabling Eco-Efficient Beneficiation of Minerals. This project focuses on design of peptide-polymer composite materials for rare earth metal binding using quantum chemical and machine learning approaches, and will involve collaboration with synthetic chemists and biochemists at the University of Adelaide and Monash University. Applicants should hold a PhD in computational chemistry or a related field, and have experience in molecular simulations and/or materials informatics. Suitable people can apply directly to Prof. Alister Page via email.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Postdoctoral position at UNSW (Canberra)</title>
-      <link>http://localhost:1313/bulletin/2025-08-12-postdoctoral-position-at-unsw-canberra-689ae1/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bulletin/2025-08-12-postdoctoral-position-at-unsw-canberra-689ae1/</guid>
-      <description>&lt;p&gt;Prof. Terry Frankcombe is seeking to employ a postdoc with experience in solid state materials modelling (i.e. DFT) to work in collaboration with an experimental group at ANU, mainly focusing on ferroelectric and multiferroic materials and thin films.  Suitable people who are interested can apply at: &lt;a href=&#34;https://external-careers.jobs.unsw.edu.au/cw/en/job/533312&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://external-careers.jobs.unsw.edu.au/cw/en/job/533312&lt;/a&gt;&#xA;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Conference Announcement </title>
-      <link>http://localhost:1313/bulletin/2025-08-07-conference-announcement--689438/</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bulletin/2025-08-07-conference-announcement--689438/</guid>
-      <description>&lt;p&gt;Molecular Modelling 2025, Australasia’s leading molecular modelling conference, will take place at the main campus of RMIT University in Melbourne from 8-10 Dec 2025.&#xA;As the latest in the MM conference series organised by the Association of Molecular Modellers of Australasia (AMMA), this in-person event will highlight the forefront of research across the molecular modelling landscape—from methodology development and machine learning, to applications in health, energy, and sustainability.&#xA;MM2025 promises an inclusive and dynamic program that brings together top researchers from across Australasia and the world.&#xA;Mark your calendars, this meeting you won’t want to miss!&#xA;Abstract Submissions are open!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Subscribe to Mailing List</title>
-      <link>http://localhost:1313/mailing-list/</link>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mailing-list/</guid>
-      <description>&lt;p&gt;Use the form below to subscribe to the Australian Computational Chemistry mailing list. You will receive an email notification when new opportunities are posted.&lt;/p&gt;&#xA;&lt;div class=&#34;row mt-5 justify-content-center&#34;&gt;&#xA;  &lt;div class=&#34;col-md-8&#34;&gt;&#xA;    &lt;div class=&#34;card&#34;&gt;&#xA;      &lt;div class=&#34;card-body&#34;&gt;&#xA;        &lt;h4 class=&#34;card-title&#34;&gt;Subscribe&lt;/h4&gt;&#xA;        &lt;p class=&#34;card-text&#34;&gt;Add your email to receive notifications.&lt;/p&gt;&#xA;        &lt;form name=&#34;subscribe&#34; method=&#34;POST&#34; data-netlify=&#34;true&#34; data-netlify-recaptcha=&#34;true&#34;&gt;&#xA;          &lt;div class=&#34;mb-3&#34;&gt;&#xA;            &lt;label for=&#34;subscribe-email&#34; class=&#34;form-label&#34;&gt;Email address&lt;/label&gt;&#xA;            &lt;input type=&#34;email&#34; name=&#34;email&#34; class=&#34;form-control&#34; id=&#34;subscribe-email&#34; placeholder=&#34;name@example.com&#34; required&gt;&#xA;          &lt;/div&gt;&#xA;          &lt;div data-netlify-recaptcha=&#34;true&#34; class=&#34;mb-3&#34;&gt;&lt;/div&gt;&#xA;          &lt;button type=&#34;submit&#34; class=&#34;btn btn-primary&#34;&gt;Subscribe&lt;/button&gt;&#xA;        &lt;/form&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;text-center mt-4&#34;&gt;&#xA;    &lt;p&gt;Need to leave the list? &lt;a href=&#34;http://localhost:1313/unsubscribe/&#34;&gt;Unsubscribe here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Unsubscribe from Mailing List</title>
-      <link>http://localhost:1313/unsubscribe/</link>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/unsubscribe/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;re sorry to see you go. Use the form below to remove your email from the Australian Computational Chemistry mailing list.&lt;/p&gt;&#xA;&lt;div class=&#34;row mt-5 justify-content-center&#34;&gt;&#xA;  &lt;div class=&#34;col-md-8&#34;&gt;&#xA;    &lt;div class=&#34;card&#34;&gt;&#xA;      &lt;div class=&#34;card-body&#34;&gt;&#xA;        &lt;h4 class=&#34;card-title&#34;&gt;Unsubscribe&lt;/h4&gt;&#xA;        &lt;p class=&#34;card-text&#34;&gt;Remove your email from the list.&lt;/p&gt;&#xA;        &lt;form name=&#34;unsubscribe&#34; method=&#34;POST&#34; data-netlify=&#34;true&#34; data-netlify-recaptcha=&#34;true&#34;&gt;&#xA;          &lt;div class=&#34;mb-3&#34;&gt;&#xA;            &lt;label for=&#34;unsubscribe-email&#34; class=&#34;form-label&#34;&gt;Email address&lt;/label&gt;&#xA;            &lt;input type=&#34;email&#34; name=&#34;email&#34; class=&#34;form-control&#34; id=&#34;unsubscribe-email&#34; placeholder=&#34;name@example.com&#34; required&gt;&#xA;          &lt;/div&gt;&#xA;          &lt;div data-netlify-recaptcha=&#34;true&#34; class=&#34;mb-3&#34;&gt;&lt;/div&gt;&#xA;          &lt;button type=&#34;submit&#34; class=&#34;btn btn-danger&#34;&gt;Unsubscribe&lt;/button&gt;&#xA;        &lt;/form&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;text-center mt-4&#34;&gt;&#xA;    &lt;p&gt;Changed your mind? &lt;a href=&#34;http://localhost:1313/mailing-list/&#34;&gt;Subscribe again&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>University of New England, Armidale, NSW: Winter Wonderland 2025</title>
-      <link>http://localhost:1313/explore/armidale-snow-2025/</link>
-      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/explore/armidale-snow-2025/</guid>
-      <description>&lt;p&gt;The campus was transformed into a real-life Narnia on August 2, 2025, as the University of New England experienced its biggest snowfall in recorded history. Here are some photos capturing the magic of that incredible day.&lt;/p&gt;&#xA;&lt;figure&gt;&#xA;  &lt;video autoplay loop muted playsinline style=&#34;max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#34;&gt;&#xA;    &lt;source src=&#34;http://localhost:1313/videos/UNE_Snow_2025.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;    Your browser does not support the video tag.&#xA;  &lt;/video&gt;&#xA;  &lt;figcaption style=&#34;text-align: center; font-style: italic; font-size: 0.9em;&#34;&gt;Snow falling at the University of New England, Armidale, August 2, 2025.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/snow/UNE_Snow_2025_4.JPG&#34; alt=&#34;University of New England Epic Snow, Armidale, NSW, 2025&#34; style=&#34;max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#34;&gt;&#xA;  &lt;figcaption style=&#34;text-align: center; font-style: italic; font-size: 0.9em;&#34;&gt;University of New England Entrance, Armidale, August 2, 2025.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/snow/UNE_Snow_2025_1.JPG&#34; alt=&#34;University of New England Epic Snow, Armidale, NSW, 2025&#34; style=&#34;max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#34;&gt;&#xA;  &lt;figcaption style=&#34;text-align: center; font-style: italic; font-size: 0.9em;&#34;&gt;Booloominbah, Madgwick Drive, University of New England, Armidale, August 2, 2025.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/snow/UNE_Snow_2025_2.JPG&#34; alt=&#34;University of New England Epic Snow, Armidale, NSW, 2025&#34; style=&#34;max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#34;&gt;&#xA;  &lt;figcaption style=&#34;text-align: center; font-style: italic; font-size: 0.9em;&#34;&gt;Booloominbah, Madgwick Drive, University of New England, Armidale, August 2, 2025.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/snow/UNE_Snow_2025_3.JPG&#34; alt=&#34;University of New England Epic Snow, Armidale, NSW, 2025&#34; style=&#34;max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#34;&gt;&#xA;  &lt;figcaption style=&#34;text-align: center; font-style: italic; font-size: 0.9em;&#34;&gt;Booloominbah, Madgwick Drive, University of New England, Armidale, August 2, 2025.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/snow/UNE_Snow_2025_6.JPG&#34; alt=&#34;University of New England Epic Snow, Armidale, NSW, 2025&#34; style=&#34;max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#34;&gt;&#xA;  &lt;figcaption style=&#34;text-align: center; font-style: italic; font-size: 0.9em;&#34;&gt;Booth Block, Library Road, University of New England, Armidale, August 2, 2025.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/snow/UNE_Snow_2025_7.JPG&#34; alt=&#34;University of New England Epic Snow, Armidale, NSW, 2025&#34; style=&#34;max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#34;&gt;&#xA;  &lt;figcaption style=&#34;text-align: center; font-style: italic; font-size: 0.9em;&#34;&gt;Behind Black Rose Building, Library Road, University of New England, Armidale, August 2, 2025.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/snow/UNE_Snow_2025_9.jpg&#34; alt=&#34;University of New England Epic Snow, Armidale, NSW, 2025&#34; style=&#34;max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#34;&gt;&#xA;  &lt;figcaption style=&#34;text-align: center; font-style: italic; font-size: 0.9em;&#34;&gt;On the way to the University of New England, Armidale, August 2, 2025.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/snow/UNE_Snow_2025_5.jpg&#34; alt=&#34;University of New England Epic Snow, Armidale, NSW, 2025&#34; style=&#34;max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#34;&gt;&#xA;  &lt;figcaption style=&#34;text-align: center; font-style: italic; font-size: 0.9em;&#34;&gt;Kangaroo statue in the snow, University of New England, Armidale, August 2, 2025.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/snow/from-the-news.jpg&#34; alt=&#34;New England, NSW, Epic Snow, 2025&#34; style=&#34;max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#34;&gt;&#xA;  &lt;figcaption style=&#34;text-align: center; font-style: italic; font-size: 0.9em;&#34;&gt;Other pictures from the news, New England, NSW, August 2, 2025.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;figure&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/snow/UNE_Snow_2025_11.jpg&#34; alt=&#34;University of New England Epic Snow, Armidale, NSW, 2025&#34; style=&#34;max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#34;&gt;&#xA;  &lt;figcaption style=&#34;text-align: center; font-style: italic; font-size: 0.9em;&#34;&gt;Amir Karton --- An unforgettable day at the University of New England, August 2, 2025.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Submit an Advertisement</title>
-      <link>http://localhost:1313/bulletin/submit/</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bulletin/submit/</guid>
-      <description>&lt;p&gt;Thank you for contributing to the Australian computational chemistry community.&lt;/p&gt;&#xA;&lt;p&gt;Please fill out the form below to submit an advertisement for the &lt;a href=&#34;http://localhost:1313/bulletin/&#34;&gt;Australian Computational Chemistry Bulletin Board&lt;/a&gt;&#xA;.&lt;/p&gt;&#xA;&lt;p&gt;All submissions will be reviewed before posting.&lt;/p&gt;&#xA;&lt;p&gt;The ad will appear on the board between the start and end dates you specify.&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;form id=&#34;job-submission-form&#34; name=&#34;bulletin-submission&#34; method=&#34;POST&#34; action=&#34;http://localhost:1313/bulletin/success/&#34; data-netlify=&#34;true&#34; data-netlify-recaptcha=&#34;true&#34;&gt;&#xA;  &lt;p&gt;&#xA;    &lt;label&gt;Your Name: &lt;input type=&#34;text&#34; name=&#34;submitter-name&#34; required /&gt;&lt;/label&gt; (will be displayed)&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;label&gt;Your Email: &lt;input type=&#34;email&#34; name=&#34;submitter-email&#34; required /&gt;&lt;/label&gt; (will NOT be displayed)&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;label&gt;Opportunity Title: &lt;input type=&#34;text&#34; name=&#34;title&#34; required /&gt;&lt;/label&gt; (will be displayed)&#xA;  &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our Team</title>
-      <link>http://localhost:1313/platform/team/</link>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/platform/team/</guid>
-      <description>&lt;style&gt;&#xA;  .team-page-container {&#xA;    max-width: 1100px;&#xA;    margin: 2rem auto;&#xA;    padding: 1rem;&#xA;    text-align: center;&#xA;  }&#xA;  .team-cards-container {&#xA;    display: flex;&#xA;    flex-wrap: wrap;&#xA;    gap: 1.5rem;&#xA;    justify-content: center;&#xA;    margin-top: 2rem;&#xA;  }&#xA;  .team-card {&#xA;    background: #fff;&#xA;    border: 1px solid #ddd;&#xA;    border-radius: 8px;&#xA;    padding: 2rem 1.5rem;&#xA;    flex: 1 1 250px;&#xA;    max-width: 280px;&#xA;    box-shadow: 0 4px 6px rgba(0,0,0,0.05);&#xA;    text-align: center;&#xA;    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;&#xA;    display: flex;&#xA;    flex-direction: column;&#xA;    align-items: center;&#xA;  }&#xA;  .team-card:hover {&#xA;    transform: translateY(-5px);&#xA;    box-shadow: 0 8px 15px rgba(0,0,0,0.1);&#xA;  }&#xA;  .team-headshot {&#xA;    width: 120px;&#xA;    height: 120px;&#xA;    border-radius: 50%;&#xA;    object-fit: cover;&#xA;    margin-bottom: 1rem;&#xA;    border: 3px solid #f0f0f0;&#xA;  }&#xA;  .team-card h3 {&#xA;    margin-top: 0;&#xA;    margin-bottom: 0.5rem;&#xA;    font-size: 1.3rem;&#xA;    color: #2c3e50;&#xA;  }&#xA;  .team-card .expertise {&#xA;    font-size: 0.95rem;&#xA;    color: #555;&#xA;    min-height: 40px;&#xA;    margin-bottom: 1rem;&#xA;  }&#xA;  .links-container {&#xA;    margin-top: auto; /* Pushes links to the bottom of the card */&#xA;    width: 100%;&#xA;    display: flex;&#xA;    flex-direction: column;&#xA;    gap: 0.75rem;&#xA;    align-items: center;&#xA;  }&#xA;  .team-link {&#xA;    display: block;&#xA;    width: 85%;&#xA;    padding: 0.6rem 0;&#xA;    border: 1px solid #ccc;&#xA;    border-radius: 20px;&#xA;    text-decoration: none;&#xA;    color: #0056b3;&#xA;    font-weight: bold;&#xA;    transition: background-color 0.2s, color 0.2s;&#xA;  }&#xA;  .team-link:hover {&#xA;    background-color: #0056b3;&#xA;    color: #fff;&#xA;  }&#xA;  .contact-footer {&#xA;    margin-top: 3rem;&#xA;    font-size: 1.1rem;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;team-page-container&#34;&gt;&#xA;  &lt;h1&gt;Meet the Experts&lt;/h1&gt;&#xA;  &lt;p&gt;Our team unites world-leading expertise in quantum chemistry, artificial intelligence, and robotic automation to solve the most complex challenges in chemical discovery.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Solutions &amp; Case Studies</title>
-      <link>http://localhost:1313/platform/solutions/</link>
-      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/platform/solutions/</guid>
-      <description>&lt;style&gt;&#xA;  .case-study {&#xA;    border: 1px solid #e9ecef;&#xA;    border-radius: 8px;&#xA;    padding: 2rem;&#xA;    margin-bottom: 2.5rem;&#xA;    background-color: #f8f9fa;&#xA;  }&#xA;  .case-study h2 {&#xA;    margin-top: 0;&#xA;    color: #0056b3;&#xA;    border-bottom: 2px solid #dee2e6;&#xA;    padding-bottom: 0.5rem;&#xA;    margin-bottom: 1rem;&#xA;  }&#xA;  .case-study h3 {&#xA;    font-size: 1.1rem;&#xA;    color: #343a40;&#xA;    margin-top: 1.5rem;&#xA;  }&#xA;  .case-study ul {&#xA;    list-style-type: none;&#xA;    padding-left: 0;&#xA;  }&#xA;  .case-study li a {&#xA;    font-weight: bold;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;&lt;strong&gt;Our AI-Discovery Engine is a globally proven platform. We partner with the world&amp;rsquo;s leading innovators in science and technology to transform the most complex challenges into breakthrough solutions. Explore our case studies to see how.&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Partner With Us</title>
-      <link>http://localhost:1313/platform/partner-with-us/</link>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/platform/partner-with-us/</guid>
-      <description>&lt;style&gt;&#xA;  .partner-page-container {&#xA;    text-align: center;&#xA;    padding: 4rem 1rem;&#xA;    background-color: #f8f9fa;&#xA;    border-radius: 8px;&#xA;    margin-top: 2rem;&#xA;  }&#xA;  .partner-page-container h1 {&#xA;    margin-bottom: 1rem;&#xA;  }&#xA;  .partner-page-container p {&#xA;    font-size: 1.1rem;&#xA;    max-width: 600px;&#xA;    margin: 0 auto 1.5rem auto;&#xA;  }&#xA;  .brochure-button {&#xA;    display: inline-flex;&#xA;    align-items: center;&#xA;    gap: 0.75rem;&#xA;    padding: 0.8rem 1.5rem;&#xA;    background-color: #0056b3;&#xA;    color: #fff;&#xA;    border: 1px solid #0056b3;&#xA;    border-radius: 5px;&#xA;    text-decoration: none;&#xA;    font-weight: bold;&#xA;    transition: background-color 0.2s;&#xA;    margin: 1rem 0;&#xA;  }&#xA;  .brochure-button:hover {&#xA;    background-color: #004494;&#xA;  }&#xA;  .brochure-button svg {&#xA;    width: 18px;&#xA;    height: 18px;&#xA;    fill: currentColor;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;partner-page-container&#34;&gt;&#xA;  &lt;h1&gt;Partnership Opportunities&lt;/h1&gt;&#xA;  &lt;p&gt;Full details on our collaborative partnership models are coming soon.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The AI-Discovery Engine</title>
-      <link>http://localhost:1313/platform/discovery-engine/</link>
-      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/platform/discovery-engine/</guid>
-      <description>&lt;style&gt;&#xA;  .discovery-engine-diagram {&#xA;    text-align: center;&#xA;    margin: 1.5rem auto;&#xA;    max-width: 400px;&#xA;  }&#xA;  .discovery-engine-diagram img {&#xA;    max-width: 100%;&#xA;    height: auto;&#xA;    border-radius: 2px;&#xA;    box-shadow: 0 2px 6px rgba(0,0,0,0.1);&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Our AI-Discovery Engine is a powerful, closed-loop system integrating predictive simulation, AI, and automated robotics. This creates an accelerated discovery loop—a synergistic process that dramatically shortens the design-test-learn cycle and delivers market-ready solutions with unprecedented speed.&lt;/p&gt;&#xA;&lt;!-- === NEW DIAGRAM SECTION START === --&gt;&#xA;&lt;div class=&#34;discovery-engine-diagram&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/ai-discovery-engine.png&#34; alt=&#34;Diagram of the AI-Discovery Engine loop showing Predictive Simulation feeding into Robotic Validation, which feeds into Self-Improving AI Refinement, completing the cycle.&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;!-- === NEW DIAGRAM SECTION END === --&gt;&#xA;&lt;h2 id=&#34;how-it-works-accelerating-the-discovery-cycle&#34;&gt;How It Works: Accelerating the Discovery Cycle&lt;/h2&gt;&#xA;&lt;p&gt;Our process is a continuous cycle of prediction, validation, and refinement.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The AI Breakthrough: Redefining Chemical Prediction with Microsoft Research</title>
-      <link>http://localhost:1313/platform/ai-breakthrough/</link>
-      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/platform/ai-breakthrough/</guid>
-      <description>&lt;p&gt;For decades, a fundamental problem has limited the predictive power of computational chemistry. Now, through a groundbreaking collaboration between Lab Initio and Microsoft Research, we have developed a deep-learning model that overcomes this challenge, achieving the accuracy required to reliably predict experimental outcomes and transform materials discovery.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-grand-challenge-a-60-year-old-problem-in-chemistry&#34;&gt;The Grand Challenge: A 60-Year-Old Problem in Chemistry&lt;/h3&gt;&#xA;&lt;p&gt;Density Functional Theory (DFT) is the workhorse method for simulating molecules and materials, but its accuracy has always been limited by a crucial, unknown component: the exchange-correlation (XC) functional. For 60 years, scientists have created hundreds of approximations, but progress toward experimental accuracy had stalled. This bottleneck meant that simulations were more often used to explain experiments rather than to predict them, slowing down the pace of innovation.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Join</title>
-      <link>http://localhost:1313/join/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/join/</guid>
-      <description>&lt;!-- Image Map Generated by http://www.image-map.net/ --&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/join-flyer.jpg&#34; usemap=&#34;#image-map&#34;&gt;&#xA;&lt;map name=&#34;image-map&#34;&gt;&#xA;    &lt;area target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; alt=&#34;Contact&#34; title=&#34;Contact&#34; href=&#34;https://labinitio.org/contact/&#34; coords=&#34;381,964,1089,1145&#34; shape=&#34;rect&#34;&gt;&#xA;    &lt;area target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; alt=&#34;Microsoft AI4Science Collaboration&#34; title=&#34;Microsoft AI4Science Collaboration&#34; href=&#34;https://t.co/LuH7ZFgyVv&#34; coords=&#34;21,720,1085,934&#34; shape=&#34;rect&#34;&gt;&#xA;    &lt;area target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; alt=&#34;PNAS Paper&#34; title=&#34;PNAS Paper&#34; href=&#34;https://tinyurl.com/yckyfzsz&#34; coords=&#34;1261,367,1541,1125&#34; shape=&#34;rect&#34;&gt;&#xA;&lt;/map&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/energy/</link>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/energy/</guid>
-      <description>&lt;h2 class=&#34;converter-title&#34;&gt;Energy Unit Converter&lt;/h2&gt;&#xA;&lt;p class=&#34;converter-subtitle&#34;&gt;Based on latest CODATA fundamental constants&lt;/p&gt;&#xA;&lt;form name=&#34;EnergyConverterForm&#34; class=&#34;energy-converter-form&#34;&gt;&#xA;    &lt;div class=&#34;converter-row&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;H&#34; id=&#34;conv-h&#34; onChange=&#34;displayInfo(this.form,this.name);&#34;&gt;&#xA;        &lt;label for=&#34;conv-h&#34;&gt;Hartree&lt;/label&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;converter-row&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;eV&#34; id=&#34;conv-ev&#34; value=&#34;&#34; onChange=&#34;displayInfo(this.form,this.name);&#34;&gt;&#xA;        &lt;label for=&#34;conv-ev&#34;&gt;eV&lt;/label&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;converter-row&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;kJ/mol&#34; id=&#34;conv-kjmol&#34; value=&#34;&#34; onChange=&#34;displayInfo(this.form,this.name);&#34;&gt;&#xA;        &lt;label for=&#34;conv-kjmol&#34;&gt;kJ mol&lt;sup&gt;-1&lt;/sup&gt;&lt;/label&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;converter-row&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;kcal/mol&#34; id=&#34;conv-kcalmol&#34; value=&#34;&#34; onChange=&#34;displayInfo(this.form,this.name);&#34;&gt;&#xA;        &lt;label for=&#34;conv-kcalmol&#34;&gt;kcal mol&lt;sup&gt;-1&lt;/sup&gt;&lt;/label&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;converter-row&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;cm-1&#34; id=&#34;conv-cm1&#34; value=&#34;&#34; onChange=&#34;displayInfo(this.form,this.name);&#34;&gt;&#xA;        &lt;label for=&#34;conv-cm1&#34;&gt;cm&lt;sup&gt;-1&lt;/sup&gt;&lt;/label&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;converter-row&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;K&#34; id=&#34;conv-k&#34; value=&#34;&#34; onChange=&#34;displayInfo(this.form,this.name);&#34;&gt;&#xA;        &lt;label for=&#34;conv-k&#34;&gt;K&lt;/label&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/form&gt;&#xA;&lt;script src=&#34;http://localhost:1313/js/energy-converter.js&#34;&gt;&lt;/script&gt;</description>
-    </item>
-    <item>
-      <title>Test Page</title>
-      <link>http://localhost:1313/test/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/test/</guid>
-      <description>&lt;p&gt;This is a test page. Does it appear?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;!--&#xA;---&#xA;title: &#34;Contact&#34;&#xA;date: 2025-01-15&#xA;draft: false&#xA;---&#xA;--&gt;&#xA;&#xA;&lt;div style=&#34;display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;&#34;&gt;&#xA;&#xA;    &lt;!-- Left Column: Image --&gt;&#xA;    &lt;div style=&#34;flex: 1; min-width: 250px;&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/amir-karton.jpg&#34; alt=&#34;Prof. Amir Karton&#34; style=&#34;width: 100%; max-width: 350px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#34;&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &lt;!-- Right Column: Contact Details --&gt;&#xA;    &lt;div style=&#34;flex: 2; min-width: 300px;&#34;&gt;&#xA;        &lt;h2&gt;Contact&lt;/h2&gt;&#xA;        &lt;p style=&#34;margin-bottom: 1rem;&#34;&gt;&#xA;            &lt;strong&gt;Prof. Amir Karton&lt;/strong&gt;&lt;br&gt;&#xA;            Professor of Physical and Materials Chemistry&lt;br&gt;&#xA;            Associate Dean of Research&lt;br&gt;&#xA;            Faculty of Science, Agriculture, Business and Law&lt;br&gt;&#xA;            University of New England&lt;br&gt;&#xA;            Australia&#xA;        &lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to AATACC on AATACC</title><link>https://aatacc.org/</link><description>Recent content in Welcome to AATACC on AATACC</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 13 Aug 2025 03:28:25 +0000</lastBuildDate><atom:link href="https://aatacc.org/index.xml" rel="self" type="application/rss+xml"/><item><title>AATACC Distinguished Lecturers</title><link>https://aatacc.org/awards-funding/distinguished-lecturers/</link><pubDate>Wed, 13 Aug 2025 03:28:25 +0000</pubDate><guid>https://aatacc.org/awards-funding/distinguished-lecturers/</guid><description>&lt;h2 id="aatacc-distinguished-lecturers">AATACC Distinguished Lecturers&lt;/h2>
+&lt;p>AATACC Distinguished Lecturers are internationally prominent researchers in the field of theoretical and computational chemistry. The award is intended to allow them to visit Australian universities.&lt;/p>
+&lt;p>AATACC Distinguished Lecturers to date include:&lt;/p>
+&lt;ul>
+&lt;li>2019: Professor William L. Jorgensen (Yale University, New Haven, USA)&lt;/li>
+&lt;li>2017: Professor Peter R. Schreiner (Justus Liebig University Giessen, Germany)&lt;/li>
+&lt;li>2015: Professor E.D. Jemmis (Indian Institute of Science, Bangalore, India)&lt;/li>
+&lt;li>2014: Professor Keiji Morokuma (Kyoto University, Kyoto, Japan)&lt;/li>
+&lt;li>2014: Professor Henry F. Schaefer III (University of Georgia, Athens, USA)&lt;/li>
+&lt;li>2013: Professor H. Bernhard Schlegel (Wayne State University, Detroit, USA)&lt;/li>
+&lt;li>2011: Professor Krishnan Raghavachari (University of Indiana, Bloomington, USA)&lt;/li>
+&lt;li>2010: Professor Mark Gordon (Iowa State University, Ames, USA)&lt;/li>
+&lt;/ul></description></item><item><title>AATACC International Fellows</title><link>https://aatacc.org/awards-funding/international-fellows/</link><pubDate>Wed, 13 Aug 2025 03:28:25 +0000</pubDate><guid>https://aatacc.org/awards-funding/international-fellows/</guid><description>&lt;h2 id="aatacc-international-fellows">AATACC International Fellows&lt;/h2>
+&lt;p>AATACC International Fellows are generally overseas-based mid-career researchers in the field of theoretical and computational chemistry. The award is intended to assist in allowing them to visit Australian universities.&lt;/p>
+&lt;ul>
+&lt;li>2018: Dr Bun Chan (Nagasaki University, Japan)&lt;/li>
+&lt;li>2016: Professor Stacey Wetmore (University of Lethbridge, Canada)&lt;/li>
+&lt;li>2016: Professor Denis Jacquemin (University of Nantes, France)&lt;/li>
+&lt;/ul></description></item><item><title>Australian Association of Theoretical and Computational Chemists (AATACC)</title><link>https://aatacc.org/about/mission/</link><pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate><guid>https://aatacc.org/about/mission/</guid><description>&lt;p>Welcome to AATACC, an organisation dedicated to advancing the field of theoretical and computational chemistry across Australia. Established in 2009, our core mission is to foster a vibrant, collaborative, and world-class research community. We serve as a hub for students, researchers, and academics, promoting scientific excellence, supporting career development, and facilitating networking opportunities nationwide.&lt;/p>
+&lt;h3 id="our-core-activities">Our Core Activities&lt;/h3>
+&lt;p>AATACC supports the Australian theoretical and computational chemistry community through several key initiatives:&lt;/p></description></item><item><title>AATACC Australian Early Career Lecturers</title><link>https://aatacc.org/asdf/early-career-lecturers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aatacc.org/asdf/early-career-lecturers/</guid><description>&lt;p>AATACC Australian Early Career Lecturers are generally Australian-based early-career individuals in the field of theoretical and computational chemistry. The award is intended to assist in allowing them to visit a number of Australian universities.&lt;/p></description></item><item><title>AATACC Distinguished Lecturers</title><link>https://aatacc.org/asdf/distinguished-lecturers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aatacc.org/asdf/distinguished-lecturers/</guid><description>&lt;p>AATACC Distinguished Lecturers are internationally prominent researchers in the field of theoretical and computational chemistry. The award is intended to encourage them to visit Australian universities.&lt;/p>
+&lt;h3 id="award-recipients">Award Recipients&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>2019:&lt;/strong> Professor William L. Jorgensen (Yale University, New Haven, USA)&lt;/li>
+&lt;li>&lt;strong>2017:&lt;/strong> Professor Peter R. Schreiner (Justus Liebig University Giessen, Germany)&lt;/li>
+&lt;li>&lt;strong>2015:&lt;/strong> Professor E.D. Jemmis (Indian Institute of Science, Bangalore, India)&lt;/li>
+&lt;li>&lt;strong>2014:&lt;/strong> Professor Keiji Morokuma (Kyoto University, Kyoto, Japan)&lt;/li>
+&lt;li>&lt;strong>2014:&lt;/strong> Professor Henry F. Schaefer III (University of Georgia, Athens, USA)&lt;/li>
+&lt;li>&lt;strong>2013:&lt;/strong> Professor H. Bernhard Schlegel (Wayne State University, Detroit, USA)&lt;/li>
+&lt;li>&lt;strong>2011:&lt;/strong> Professor Krishnan Raghavachari (University of Indiana, Bloomington, USA)&lt;/li>
+&lt;li>&lt;strong>2010:&lt;/strong> Professor Mark Gordon (Iowa State University, Ames, USA)&lt;/li>
+&lt;/ul></description></item><item><title>AATACC International Fellows</title><link>https://aatacc.org/asdf/international-fellows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aatacc.org/asdf/international-fellows/</guid><description>&lt;p>AATACC International Fellows are generally overseas-based mid-career individuals in the field of theoretical and computational chemistry. The award is intended to assist in allowing them to visit two or more Australian universities.&lt;/p>
+&lt;h3 id="award-recipients">Award Recipients&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>2018:&lt;/strong> Dr Bun Chan (Nagasaki University, Japan)&lt;/li>
+&lt;li>&lt;strong>2016:&lt;/strong> Professor Stacey Wetmore (University of Lethbridge, Canada)&lt;/li>
+&lt;li>&lt;strong>2016:&lt;/strong> Professor Denis Jacquemin (University of Nantes, France)&lt;/li>
+&lt;/ul></description></item><item><title>Conference &amp; Workshop Sponsorships</title><link>https://aatacc.org/asdf/sponsorships/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aatacc.org/asdf/sponsorships/</guid><description>&lt;p>AATACC will support selected conferences that would benefit theoretical and computational chemistry in Australia through provision of seed funding.&lt;/p>
+&lt;h3 id="supported-events">Supported Events&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>2018:&lt;/strong> QUACCS Student Conference, Kiola, NSW&lt;/li>
+&lt;/ul></description></item><item><title>Contact Us</title><link>https://aatacc.org/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aatacc.org/contact/</guid><description>&lt;p>For inquiries, please contact a member of the Scientific Board:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Emeritus Professor Leo Radom&lt;/strong> (President)
+University of Sydney
+&lt;em>&lt;a href="mailto:radom@chem.usyd.edu.au">radom@chem.usyd.edu.au&lt;/a>
+&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Professor Peter Gill&lt;/strong>
+University of Sydney
+&lt;em>&lt;a href="mailto:p.gill@sydney.edu.au">p.gill@sydney.edu.au&lt;/a>
+&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Emeritus Professor Brian Yates&lt;/strong>
+University of Tasmania
+&lt;em>&lt;a href="mailto:brian.yates@utas.edu.au">brian.yates@utas.edu.au&lt;/a>
+&lt;/em>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Scientific Board</title><link>https://aatacc.org/about/board/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aatacc.org/about/board/</guid><description>&lt;p>The inaugural Scientific Board of the Australian Association of Theoretical and Computational Chemists (AATACC) consists of:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Emeritus Professor Leo Radom&lt;/strong> (President)&lt;br>
+University of Sydney&lt;br>
+&lt;em>&lt;a href="mailto:radom@chem.usyd.edu.au">radom@chem.usyd.edu.au&lt;/a>
+&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Professor Peter Gill&lt;/strong>&lt;br>
+University of Sydney&lt;br>
+&lt;em>&lt;a href="mailto:p.gill@sydney.edu.au">p.gill@sydney.edu.au&lt;/a>
+&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Emeritus Professor Brian Yates&lt;/strong>&lt;br>
+University of Tasmania&lt;br>
+&lt;em>&lt;a href="mailto:brian.yates@utas.edu.au">brian.yates@utas.edu.au&lt;/a>
+&lt;/em>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
