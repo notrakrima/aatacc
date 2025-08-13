@@ -4,9 +4,9 @@ title: "Contact Us"
 
 For inquiries, please contact a member of the Scientific Board:
 
-*   **Emeritus Professor Leo Radom** (President)
-    University of Sydney
-    *radom@chem.usyd.edu.au*
+*   **Professor Amir Karton** 
+    University of New England
+    *amir.karton@une.edu.au*
 
 *   **Professor Peter Gill**
     University of Sydney
