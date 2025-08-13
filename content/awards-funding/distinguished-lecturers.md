@@ -4,7 +4,6 @@ date: 2025-08-13T03:28:25Z
 draft: false
 ---
 
-## AATACC Distinguished Lecturers
 AATACC Distinguished Lecturers are internationally prominent researchers in the field of theoretical and computational chemistry. The award is intended to allow them to visit Australian universities. 
 
 AATACC Distinguished Lecturers to date include:
