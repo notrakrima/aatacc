@@ -1,1 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://aatacc.org/awards-funding/distinguished-lecturers/</loc><lastmod>2025-08-13T03:28:25+00:00</lastmod></url><url><loc>https://aatacc.org/awards-funding/international-fellows/</loc><lastmod>2025-08-13T03:28:25+00:00</lastmod></url><url><loc>https://aatacc.org/</loc><lastmod>2025-08-13T03:28:25+00:00</lastmod></url><url><loc>https://aatacc.org/awards-funding/</loc><lastmod>2025-08-13T03:25:35+00:00</lastmod></url><url><loc>https://aatacc.org/about/mission/</loc><lastmod>2024-07-30T00:00:00+00:00</lastmod></url><url><loc>https://aatacc.org/about/</loc><lastmod>2024-07-30T00:00:00+00:00</lastmod></url><url><loc>https://aatacc.org/asdf/early-career-lecturers/</loc></url><url><loc>https://aatacc.org/asdf/distinguished-lecturers/</loc></url><url><loc>https://aatacc.org/asdf/international-fellows/</loc></url><url><loc>https://aatacc.org/asdf/</loc></url><url><loc>https://aatacc.org/categories/</loc></url><url><loc>https://aatacc.org/asdf/sponsorships/</loc></url><url><loc>https://aatacc.org/contact/</loc></url><url><loc>https://aatacc.org/membership/</loc></url><url><loc>https://aatacc.org/about/board/</loc></url><url><loc>https://aatacc.org/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/awards-funding/distinguished-lecturers/</loc>
+    <lastmod>2025-08-13T03:28:25+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/awards-funding/international-fellows/</loc>
+    <lastmod>2025-08-13T03:28:25+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-08-13T03:28:25+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/awards-funding/</loc>
+    <lastmod>2025-08-13T03:25:35+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/mission/</loc>
+    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/asdf/early-career-lecturers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/asdf/distinguished-lecturers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/asdf/international-fellows/</loc>
+  </url><url>
+    <loc>http://localhost:1313/asdf/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/asdf/sponsorships/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/membership/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/board/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

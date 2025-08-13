@@ -1,23 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to AATACC on AATACC</title><link>https://aatacc.org/about/</link><description>Recent content in Welcome to AATACC on AATACC</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aatacc.org/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Australian Association of Theoretical and Computational Chemists (AATACC)</title><link>https://aatacc.org/about/mission/</link><pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate><guid>https://aatacc.org/about/mission/</guid><description>&lt;p>Welcome to AATACC, an organisation dedicated to advancing the field of theoretical and computational chemistry across Australia. Established in 2009, our core mission is to foster a vibrant, collaborative, and world-class research community. We serve as a hub for students, researchers, and academics, promoting scientific excellence, supporting career development, and facilitating networking opportunities nationwide.&lt;/p>
-&lt;h3 id="our-core-activities">Our Core Activities&lt;/h3>
-&lt;p>AATACC supports the Australian theoretical and computational chemistry community through several key initiatives:&lt;/p></description></item><item><title>Scientific Board</title><link>https://aatacc.org/about/board/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aatacc.org/about/board/</guid><description>&lt;p>The inaugural Scientific Board of the Australian Association of Theoretical and Computational Chemists (AATACC) consists of:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Emeritus Professor Leo Radom&lt;/strong> (President)&lt;br>
-University of Sydney&lt;br>
-&lt;em>&lt;a href="mailto:radom@chem.usyd.edu.au">radom@chem.usyd.edu.au&lt;/a>
-&lt;/em>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Professor Peter Gill&lt;/strong>&lt;br>
-University of Sydney&lt;br>
-&lt;em>&lt;a href="mailto:p.gill@sydney.edu.au">p.gill@sydney.edu.au&lt;/a>
-&lt;/em>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Emeritus Professor Brian Yates&lt;/strong>&lt;br>
-University of Tasmania&lt;br>
-&lt;em>&lt;a href="mailto:brian.yates@utas.edu.au">brian.yates@utas.edu.au&lt;/a>
-&lt;/em>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to AATACC on AATACC</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Welcome to AATACC on AATACC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australian Association of Theoretical and Computational Chemists (AATACC)</title>
+      <link>http://localhost:1313/about/mission/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/mission/</guid>
+      <description>&lt;p&gt;Welcome to AATACC, an organisation dedicated to advancing the field of theoretical and computational chemistry across Australia. Established in 2009, our core mission is to foster a vibrant, collaborative, and world-class research community. We serve as a hub for students, researchers, and academics, promoting scientific excellence, supporting career development, and facilitating networking opportunities nationwide.&lt;/p&gt;&#xA;&lt;h3 id=&#34;our-core-activities&#34;&gt;Our Core Activities&lt;/h3&gt;&#xA;&lt;p&gt;AATACC supports the Australian theoretical and computational chemistry community through several key initiatives:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scientific Board</title>
+      <link>http://localhost:1313/about/board/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/board/</guid>
+      <description>&lt;p&gt;The inaugural Scientific Board of the Australian Association of Theoretical and Computational Chemists (AATACC) consists of:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;tr&gt;&#xA;    &lt;td style=&#34;border: none; padding: 0; vertical-align: top;&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/img/radom.png&#34; alt=&#34;Headshot of Emeritus Professor Leo Radom&#34; style=&#34;width:100px; border-radius: 50%;&#34;&gt;&#xA;    &lt;/td&gt;&#xA;    &lt;td style=&#34;border: none; vertical-align: top; padding-left: 15px;&#34;&gt;&#xA;      &lt;b&gt;Emeritus Professor Leo Radom&lt;/b&gt; (President)&lt;br&gt;&#xA;      University of Sydney&lt;br&gt;&#xA;      &lt;i&gt;radom@chem.usyd.edu.au&lt;/i&gt;&#xA;    &lt;/td&gt;&#xA;  &lt;/tr&gt;&#xA;&lt;/table&gt;&#xA;&lt;table&gt;&#xA;  &lt;tr&gt;&#xA;    &lt;td style=&#34;border: none; padding: 0; vertical-align: top;&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/img/gill.png&#34; alt=&#34;Headshot of Professor Peter Gill&#34; style=&#34;width:100px; border-radius: 50%;&#34;&gt;&#xA;    &lt;/td&gt;&#xA;    &lt;td style=&#34;border: none; vertical-align: top; padding-left: 15px;&#34;&gt;&#xA;      &lt;b&gt;Professor Peter Gill&lt;/b&gt;&lt;br&gt;&#xA;      University of Sydney&lt;br&gt;&#xA;      &lt;i&gt;p.gill@sydney.edu.au&lt;/i&gt;&#xA;    &lt;/td&gt;&#xA;  &lt;/tr&gt;&#xA;&lt;/table&gt;&#xA;&lt;table&gt;&#xA;  &lt;tr&gt;&#xA;    &lt;td style=&#34;border: none; padding: 0; vertical-align: top;&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/img/yates.png&#34; alt=&#34;Headshot of Emeritus Professor Brian Yates&#34; style=&#34;width:100px; border-radius: 50%;&#34;&gt;&#xA;    &lt;/td&gt;&#xA;    &lt;td style=&#34;border: none; vertical-align: top; padding-left: 15px;&#34;&gt;&#xA;      &lt;b&gt;Emeritus Professor Brian Yates&lt;/b&gt;&lt;br&gt;&#xA;      University of Tasmania&lt;br&gt;&#xA;      &lt;i&gt;brian.yates@utas.edu.au&lt;/i&gt;&#xA;    &lt;/td&gt;&#xA;  &lt;/tr&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
