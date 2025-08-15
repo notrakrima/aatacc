@@ -8,6 +8,7 @@ AATACC Distinguished Lecturers are internationally prominent researchers in the 
 
 AATACC Distinguished Lecturers to date include:
 
+*   2023: Professor T. Daniel Crawford (Virginia Tech, Blacksburg, Virginia, USA)
 *   2019: Professor William L. Jorgensen (Yale University, New Haven, USA)
 *   2017: Professor Peter R. Schreiner (Justus Liebig University Giessen, Germany)
 *   2015: Professor E.D. Jemmis (Indian Institute of Science, Bangalore, India)
