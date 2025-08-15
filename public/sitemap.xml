@@ -26,8 +26,6 @@
   </url><url>
     <loc>http://localhost:1313/asdf/international-fellows/</loc>
   </url><url>
-    <loc>http://localhost:1313/sci-board/</loc>
-  </url><url>
     <loc>http://localhost:1313/asdf/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -36,9 +34,13 @@
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/internal/</loc>
+  </url><url>
     <loc>http://localhost:1313/membership/</loc>
   </url><url>
     <loc>http://localhost:1313/about/board/</loc>
+  </url><url>
+    <loc>http://localhost:1313/internal/board-members/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
