@@ -10,7 +10,7 @@ Welcome to AATACC, an organisation dedicated to advancing the field of theoretic
 
 AATACC supports the Australian theoretical and computational chemistry community through several established programs and strategic initiatives:
 
-* **Fostering International Connections:** We connect the Australian research community with world-leading computational chemists through our prestigious **[Distinguished Lecturers](/awards-funding/distinguished-lecturers/)** and **[International Fellows](/awards-funding/international-fellows/).** These initiatives facilitate visits that spark new collaborations, foster knowledge exchange, and ensure Australia remains at the forefront of the field
+* **Fostering International Connections:** We connect the Australian research community with world-leading computational chemists through our prestigious **[Distinguished Lecturers](/awards-funding/distinguished-lecturers/)** and **[International Fellows](/awards-funding/international-fellows/)** programs. These initiatives facilitate visits that spark new collaborations, foster knowledge exchange, and ensure Australia remains at the forefront of the field
 
 * **Nurturing Future Leaders:** We are dedicated to nurturing the next generation of researchers. Through targeted fellowships and awards, we support the career development of emerging researchers, ensuring a vibrant and sustainable future for theoretical and computational chemistry in Australia
 
