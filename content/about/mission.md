@@ -4,11 +4,15 @@ date: 2024-07-30T00:00:00Z
 draft: false
 ---
 
-Welcome to AATACC, an organisation dedicated to advancing the field of theoretical and computational chemistry across Australia. Established in 2009, our core mission is to foster a vibrant, collaborative, and world-class research community. We serve as a hub for students, researchers, and academics, promoting scientific excellence, supporting career development, and facilitating networking opportunities nationwide.
+Welcome to AATACC, an organisation dedicated to advancing the field of theoretical and computational chemistry across Australia. Established in 2009, our core mission is to foster a vibrant, collaborative, and world-class research community. We advance theoretical and computational chemistry in Australia by connecting our national community with global leaders, nurturing the next generation of researchers, and facilitating high-impact scientific exchange. 
 
 ### Our Core Activities
 
-AATACC supports the Australian theoretical and computational chemistry community through several key initiatives:
+AATACC supports the Australian theoretical and computational chemistry community through several established programs and strategic initiatives:
 
-*   **Awards & Fellowships:** We recognize scientific excellence through our prestigious **[Distinguished Lecturers](/awards-funding/distinguished-lecturers/)** and **[International Fellows](/awards-funding/international-fellows/)** programs. These awards provide crucial support by enabling leading international experts to visit Australian institutions and share their knowledge.
-*   **Community & Events:** We build a vibrant national network by providing seed funding and sponsorship for conferences, workshops, and symposia. These events bring researchers together at all career stages to share ideas, foster collaboration, and strengthen the Australian theoretical and computational chemistry community.
+* **Fostering International Connections:** We connect the Australian research community with world-leading computational chemists through our prestigious **[Distinguished Lecturers](/awards-funding/distinguished-lecturers/)** and **[International Fellows](/awards-funding/international-fellows/)**. These initiatives facilitate visits that spark new collaborations, foster knowledge exchange, and ensure Australia remains at the forefront of the field
+
+* Nurturing Future Leaders: We are dedicated to nurturing the next generation of researchers. Through targeted fellowships and awards, we support the career development of emerging talent, ensuring a vibrant and sustainable future for theoretical and computational chemistry in Australia
+
+* Strengthening Our National Community: AATACC is committed to strengthening the national network by fostering scientific dialogue that creates vital opportunities for researchers to share ideas, build collaborations, and advance theoretical and computational chemistry in Australia
+
