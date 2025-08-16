@@ -1,0 +1,24 @@
+# This file configures the build and redirect settings for Netlify.
+
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[[redirects]]
+  from = "/internal/board-members/*"
+  to = "/internal/board-members/:splat"
+  status = 200
+  force = true
+  conditions = {Role = ["board-member"]}
+
+[[redirects]]
+  from = "/"
+  to = "/about/mission/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/awards-funding/"
+  to = "/awards/"
+  status = 301
+  force = true
