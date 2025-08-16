@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awards &amp; Funding on AATACC</title>
-    <link>https://aatacc.org/asdf/</link>
+    <link>http://localhost:1313/asdf/</link>
     <description>Recent content in Awards &amp; Funding on AATACC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://aatacc.org/asdf/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/asdf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AATACC Australian Early Career Lecturers</title>
-      <link>https://aatacc.org/asdf/early-career-lecturers/</link>
+      <link>http://localhost:1313/asdf/early-career-lecturers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aatacc.org/asdf/early-career-lecturers/</guid>
+      <guid>http://localhost:1313/asdf/early-career-lecturers/</guid>
       <description>&lt;p&gt;AATACC Australian Early Career Lecturers are generally Australian-based early-career individuals in the field of theoretical and computational chemistry. The award is intended to assist in allowing them to visit a number of Australian universities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AATACC Distinguished Lecturers</title>
-      <link>https://aatacc.org/asdf/distinguished-lecturers/</link>
+      <link>http://localhost:1313/asdf/distinguished-lecturers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aatacc.org/asdf/distinguished-lecturers/</guid>
+      <guid>http://localhost:1313/asdf/distinguished-lecturers/</guid>
       <description>&lt;p&gt;AATACC Distinguished Lecturers are internationally prominent researchers in the field of theoretical and computational chemistry. The award is intended to encourage them to visit Australian universities.&lt;/p&gt;&#xA;&lt;h3 id=&#34;award-recipients&#34;&gt;Award Recipients&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;2019:&lt;/strong&gt; Professor William L. Jorgensen (Yale University, New Haven, USA)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2017:&lt;/strong&gt; Professor Peter R. Schreiner (Justus Liebig University Giessen, Germany)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2015:&lt;/strong&gt; Professor E.D. Jemmis (Indian Institute of Science, Bangalore, India)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2014:&lt;/strong&gt; Professor Keiji Morokuma (Kyoto University, Kyoto, Japan)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2014:&lt;/strong&gt; Professor Henry F. Schaefer III (University of Georgia, Athens, USA)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2013:&lt;/strong&gt; Professor H. Bernhard Schlegel (Wayne State University, Detroit, USA)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2011:&lt;/strong&gt; Professor Krishnan Raghavachari (University of Indiana, Bloomington, USA)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2010:&lt;/strong&gt; Professor Mark Gordon (Iowa State University, Ames, USA)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>AATACC International Fellows</title>
-      <link>https://aatacc.org/asdf/international-fellows/</link>
+      <link>http://localhost:1313/asdf/international-fellows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aatacc.org/asdf/international-fellows/</guid>
+      <guid>http://localhost:1313/asdf/international-fellows/</guid>
       <description>&lt;p&gt;AATACC International Fellows are generally overseas-based mid-career individuals in the field of theoretical and computational chemistry. The award is intended to assist in allowing them to visit two or more Australian universities.&lt;/p&gt;&#xA;&lt;h3 id=&#34;award-recipients&#34;&gt;Award Recipients&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;2018:&lt;/strong&gt; Dr Bun Chan (Nagasaki University, Japan)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2016:&lt;/strong&gt; Professor Stacey Wetmore (University of Lethbridge, Canada)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2016:&lt;/strong&gt; Professor Denis Jacquemin (University of Nantes, France)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Conference &amp; Workshop Sponsorships</title>
-      <link>https://aatacc.org/asdf/sponsorships/</link>
+      <link>http://localhost:1313/asdf/sponsorships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aatacc.org/asdf/sponsorships/</guid>
+      <guid>http://localhost:1313/asdf/sponsorships/</guid>
       <description>&lt;p&gt;AATACC will support selected conferences that would benefit theoretical and computational chemistry in Australia through provision of seed funding.&lt;/p&gt;&#xA;&lt;h3 id=&#34;supported-events&#34;&gt;Supported Events&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;2018:&lt;/strong&gt; QUACCS Student Conference, Kiola, NSW&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

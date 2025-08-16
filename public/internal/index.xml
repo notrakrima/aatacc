@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internals on AATACC</title>
-    <link>https://aatacc.org/internal/</link>
+    <link>http://localhost:1313/internal/</link>
     <description>Recent content in Internals on AATACC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://aatacc.org/internal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/internal/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

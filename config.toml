@@ -34,8 +34,8 @@ theme = 'netlify-basic'
   weight = 20
 
 [[menu.main]]
-  name = "Awards & Funding"
-  url = "/awards-funding/"
+  name = "Awards"
+  url = "/awards/"
   weight = 30
   hasChildren = true
   [[menu.main.children]]

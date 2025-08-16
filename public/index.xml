@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to AATACC on AATACC</title>
-    <link>https://aatacc.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome to AATACC on AATACC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Aug 2025 03:28:25 +0000</lastBuildDate>
-    <atom:link href="https://aatacc.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AATACC Distinguished Lecturers</title>
-      <link>https://aatacc.org/awards-funding/distinguished-lecturers/</link>
+      <link>http://localhost:1313/awards/distinguished-lecturers/</link>
       <pubDate>Wed, 13 Aug 2025 03:28:25 +0000</pubDate>
-      <guid>https://aatacc.org/awards-funding/distinguished-lecturers/</guid>
+      <guid>http://localhost:1313/awards/distinguished-lecturers/</guid>
       <description>&lt;p&gt;AATACC Distinguished Lecturers are internationally prominent researchers in the field of theoretical and computational chemistry. The award is intended to allow them to visit Australian universities.&lt;/p&gt;&#xA;&lt;p&gt;AATACC Distinguished Lecturers to date include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023: Professor T. Daniel Crawford (Virginia Tech, Blacksburg, USA)&lt;/li&gt;&#xA;&lt;li&gt;2019: Professor William L. Jorgensen (Yale University, New Haven, USA)&lt;/li&gt;&#xA;&lt;li&gt;2017: Professor Peter R. Schreiner (Justus Liebig University Giessen, Germany)&lt;/li&gt;&#xA;&lt;li&gt;2015: Professor E.D. Jemmis (Indian Institute of Science, Bangalore, India)&lt;/li&gt;&#xA;&lt;li&gt;2014: Professor Keiji Morokuma (Kyoto University, Kyoto, Japan)&lt;/li&gt;&#xA;&lt;li&gt;2014: Professor Henry F. Schaefer III (University of Georgia, Athens, USA)&lt;/li&gt;&#xA;&lt;li&gt;2013: Professor H. Bernhard Schlegel (Wayne State University, Detroit, USA)&lt;/li&gt;&#xA;&lt;li&gt;2011: Professor Krishnan Raghavachari (University of Indiana, Bloomington, USA)&lt;/li&gt;&#xA;&lt;li&gt;2010: Professor Mark Gordon (Iowa State University, Ames, USA)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>AATACC International Fellows</title>
-      <link>https://aatacc.org/awards-funding/international-fellows/</link>
+      <link>http://localhost:1313/awards/international-fellows/</link>
       <pubDate>Wed, 13 Aug 2025 03:28:25 +0000</pubDate>
-      <guid>https://aatacc.org/awards-funding/international-fellows/</guid>
+      <guid>http://localhost:1313/awards/international-fellows/</guid>
       <description>&lt;p&gt;AATACC International Fellows are generally overseas-based mid-career researchers in the field of theoretical and computational chemistry. The award is intended to assist in allowing them to visit Australian universities.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2018: Dr Bun Chan (Nagasaki University, Japan)&lt;/li&gt;&#xA;&lt;li&gt;2016: Professor Stacey Wetmore (University of Lethbridge, Canada)&lt;/li&gt;&#xA;&lt;li&gt;2016: Professor Denis Jacquemin (University of Nantes, France)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Australian Association of Theoretical and Computational Chemists (AATACC)</title>
-      <link>https://aatacc.org/about/mission/</link>
+      <link>http://localhost:1313/about/mission/</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://aatacc.org/about/mission/</guid>
+      <guid>http://localhost:1313/about/mission/</guid>
       <description>&lt;p&gt;Welcome to AATACC, an organisation dedicated to advancing the field of theoretical and computational chemistry across Australia. Established in 2009, our core mission is to foster a vibrant, collaborative, and world-class research community. We advance theoretical and computational chemistry in Australia by connecting our national community with global leaders, nurturing the next generation of researchers, and facilitating high-impact scientific exchange.&lt;/p&gt;&#xA;&lt;h3 id=&#34;our-core-activities&#34;&gt;Our Core Activities&lt;/h3&gt;&#xA;&lt;p&gt;AATACC supports the Australian theoretical and computational chemistry community through several established programs and strategic initiatives:&lt;/p&gt;</description>
     </item>
     <item>
       <title>AATACC Australian Early Career Lecturers</title>
-      <link>https://aatacc.org/asdf/early-career-lecturers/</link>
+      <link>http://localhost:1313/asdf/early-career-lecturers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aatacc.org/asdf/early-career-lecturers/</guid>
+      <guid>http://localhost:1313/asdf/early-career-lecturers/</guid>
       <description>&lt;p&gt;AATACC Australian Early Career Lecturers are generally Australian-based early-career individuals in the field of theoretical and computational chemistry. The award is intended to assist in allowing them to visit a number of Australian universities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AATACC Distinguished Lecturers</title>
-      <link>https://aatacc.org/asdf/distinguished-lecturers/</link>
+      <link>http://localhost:1313/asdf/distinguished-lecturers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aatacc.org/asdf/distinguished-lecturers/</guid>
+      <guid>http://localhost:1313/asdf/distinguished-lecturers/</guid>
       <description>&lt;p&gt;AATACC Distinguished Lecturers are internationally prominent researchers in the field of theoretical and computational chemistry. The award is intended to encourage them to visit Australian universities.&lt;/p&gt;&#xA;&lt;h3 id=&#34;award-recipients&#34;&gt;Award Recipients&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;2019:&lt;/strong&gt; Professor William L. Jorgensen (Yale University, New Haven, USA)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2017:&lt;/strong&gt; Professor Peter R. Schreiner (Justus Liebig University Giessen, Germany)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2015:&lt;/strong&gt; Professor E.D. Jemmis (Indian Institute of Science, Bangalore, India)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2014:&lt;/strong&gt; Professor Keiji Morokuma (Kyoto University, Kyoto, Japan)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2014:&lt;/strong&gt; Professor Henry F. Schaefer III (University of Georgia, Athens, USA)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2013:&lt;/strong&gt; Professor H. Bernhard Schlegel (Wayne State University, Detroit, USA)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2011:&lt;/strong&gt; Professor Krishnan Raghavachari (University of Indiana, Bloomington, USA)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2010:&lt;/strong&gt; Professor Mark Gordon (Iowa State University, Ames, USA)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>AATACC International Fellows</title>
-      <link>https://aatacc.org/asdf/international-fellows/</link>
+      <link>http://localhost:1313/asdf/international-fellows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aatacc.org/asdf/international-fellows/</guid>
+      <guid>http://localhost:1313/asdf/international-fellows/</guid>
       <description>&lt;p&gt;AATACC International Fellows are generally overseas-based mid-career individuals in the field of theoretical and computational chemistry. The award is intended to assist in allowing them to visit two or more Australian universities.&lt;/p&gt;&#xA;&lt;h3 id=&#34;award-recipients&#34;&gt;Award Recipients&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;2018:&lt;/strong&gt; Dr Bun Chan (Nagasaki University, Japan)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2016:&lt;/strong&gt; Professor Stacey Wetmore (University of Lethbridge, Canada)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2016:&lt;/strong&gt; Professor Denis Jacquemin (University of Nantes, France)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Conference &amp; Workshop Sponsorships</title>
-      <link>https://aatacc.org/asdf/sponsorships/</link>
+      <link>http://localhost:1313/asdf/sponsorships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aatacc.org/asdf/sponsorships/</guid>
+      <guid>http://localhost:1313/asdf/sponsorships/</guid>
       <description>&lt;p&gt;AATACC will support selected conferences that would benefit theoretical and computational chemistry in Australia through provision of seed funding.&lt;/p&gt;&#xA;&lt;h3 id=&#34;supported-events&#34;&gt;Supported Events&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;2018:&lt;/strong&gt; QUACCS Student Conference, Kiola, NSW&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Contact Us</title>
-      <link>https://aatacc.org/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aatacc.org/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;For inquiries, please contact a member of the Scientific Board:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Professor Amir Karton&lt;/strong&gt;&#xA;University of New England&#xA;&lt;em&gt;&lt;a href=&#34;mailto:amir.karton@une.edu.au&#34;&gt;amir.karton@une.edu.au&lt;/a&gt;&#xA;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Professor Peter Gill&lt;/strong&gt;&#xA;University of Sydney&#xA;&lt;em&gt;&lt;a href=&#34;mailto:p.gill@sydney.edu.au&#34;&gt;p.gill@sydney.edu.au&lt;/a&gt;&#xA;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Emeritus Professor Brian Yates&lt;/strong&gt;&#xA;University of Tasmania&#xA;&lt;em&gt;&lt;a href=&#34;mailto:brian.yates@utas.edu.au&#34;&gt;brian.yates@utas.edu.au&lt;/a&gt;&#xA;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Scientific Board</title>
-      <link>https://aatacc.org/about/board/</link>
+      <link>http://localhost:1313/about/board/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aatacc.org/about/board/</guid>
-      <description>&lt;p&gt;The Scientific Board of the Australian Association of Theoretical and Computational Chemists (AATACC) consists of:&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex; align-items: center; margin-bottom: 25px;&#34;&gt;&#xA;  &lt;img src=&#34;https://aatacc.org/img/gill.png&#34; alt=&#34;Headshot of Professor Peter Gill&#34; style=&#34;width:100px; height:100px; border-radius: 50%; object-fit: cover;&#34;&gt;&#xA;  &lt;div style=&#34;margin-left: 20px;&#34;&gt;&#xA;    &lt;a href=&#34;https://www.sydney.edu.au/science/about/our-people/academic-staff/p-gill.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;b&gt;Professor Peter Gill&lt;/b&gt;&lt;/a&gt; (President)&lt;br&gt;&#xA;    University of Sydney&lt;br&gt;&#xA;    &lt;i&gt;p.gill@sydney.edu.au&lt;/i&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;display: flex; align-items: center; margin-bottom: 25px;&#34;&gt;&#xA;  &lt;img src=&#34;https://aatacc.org/img/yates.png&#34; alt=&#34;Headshot of Emeritus Professor Brian Yates&#34; style=&#34;width:100px; height:100px; border-radius: 50%; object-fit: cover;&#34;&gt;&#xA;  &lt;div style=&#34;margin-left: 20px;&#34;&gt;&#xA;    &lt;a href=&#34;https://discover.utas.edu.au/Brian.Yates&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;b&gt;Emeritus Professor Brian Yates&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&#xA;    University of Tasmania&lt;br&gt;&#xA;    &lt;i&gt;brian.yates@utas.edu.au&lt;/i&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;display: flex; align-items: center; margin-bottom: 25px;&#34;&gt;&#xA;  &lt;img src=&#34;https://aatacc.org/img/karton.png&#34; alt=&#34;Headshot of Professor Amir Karton&#34; style=&#34;width:100px; height:100px; border-radius: 50%; object-fit: cover; background-color: #f0f0f0;&#34;&gt;&#xA;  &lt;div style=&#34;margin-left: 20px;&#34;&gt;&#xA;    &lt;a href=&#34;https://labinitio.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;b&gt;Professor Amir Karton&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&#xA;    University of New England&lt;br&gt;&#xA;    &lt;i&gt;amir.karton@une.edu.au&lt;/i&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;former-board-members&#34;&gt;Former Board Members&lt;/h2&gt;&#xA;&lt;div style=&#34;display: flex; align-items: center; margin-bottom: 25px;&#34;&gt;&#xA;  &lt;img src=&#34;https://aatacc.org/img/radom.png&#34; alt=&#34;Headshot of Emeritus Professor Leo Radom&#34; style=&#34;width:100px; height:100px; border-radius: 50%; object-fit: cover;&#34;&gt;&#xA;  &lt;div style=&#34;margin-left: 20px;&#34;&gt;&#xA;    &lt;a href=&#34;https://www.sydney.edu.au/science/about/our-people/academic-staff/leo-radom.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;b&gt;Emeritus Professor Leo Radom&lt;/b&gt;&lt;/a&gt; (Former President and Founding Member)&lt;br&gt;&#xA;    University of Sydney&lt;br&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/about/board/</guid>
+      <description>&lt;p&gt;The Scientific Board of the Australian Association of Theoretical and Computational Chemists (AATACC) consists of:&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex; align-items: center; margin-bottom: 25px;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/img/gill.png&#34; alt=&#34;Headshot of Professor Peter Gill&#34; style=&#34;width:100px; height:100px; border-radius: 50%; object-fit: cover;&#34;&gt;&#xA;  &lt;div style=&#34;margin-left: 20px;&#34;&gt;&#xA;    &lt;a href=&#34;https://www.sydney.edu.au/science/about/our-people/academic-staff/p-gill.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;b&gt;Professor Peter Gill&lt;/b&gt;&lt;/a&gt; (President)&lt;br&gt;&#xA;    University of Sydney&lt;br&gt;&#xA;    &lt;i&gt;p.gill@sydney.edu.au&lt;/i&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;display: flex; align-items: center; margin-bottom: 25px;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/img/yates.png&#34; alt=&#34;Headshot of Emeritus Professor Brian Yates&#34; style=&#34;width:100px; height:100px; border-radius: 50%; object-fit: cover;&#34;&gt;&#xA;  &lt;div style=&#34;margin-left: 20px;&#34;&gt;&#xA;    &lt;a href=&#34;https://discover.utas.edu.au/Brian.Yates&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;b&gt;Emeritus Professor Brian Yates&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&#xA;    University of Tasmania&lt;br&gt;&#xA;    &lt;i&gt;brian.yates@utas.edu.au&lt;/i&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;display: flex; align-items: center; margin-bottom: 25px;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/img/karton.png&#34; alt=&#34;Headshot of Professor Amir Karton&#34; style=&#34;width:100px; height:100px; border-radius: 50%; object-fit: cover; background-color: #f0f0f0;&#34;&gt;&#xA;  &lt;div style=&#34;margin-left: 20px;&#34;&gt;&#xA;    &lt;a href=&#34;https://labinitio.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;b&gt;Professor Amir Karton&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&#xA;    University of New England&lt;br&gt;&#xA;    &lt;i&gt;amir.karton@une.edu.au&lt;/i&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;former-board-members&#34;&gt;Former Board Members&lt;/h2&gt;&#xA;&lt;div style=&#34;display: flex; align-items: center; margin-bottom: 25px;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/img/radom.png&#34; alt=&#34;Headshot of Emeritus Professor Leo Radom&#34; style=&#34;width:100px; height:100px; border-radius: 50%; object-fit: cover;&#34;&gt;&#xA;  &lt;div style=&#34;margin-left: 20px;&#34;&gt;&#xA;    &lt;a href=&#34;https://www.sydney.edu.au/science/about/our-people/academic-staff/leo-radom.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;b&gt;Emeritus Professor Leo Radom&lt;/b&gt;&lt;/a&gt; (Former President and Founding Member)&lt;br&gt;&#xA;    University of Sydney&lt;br&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Scientific Board Login</title>
-      <link>https://aatacc.org/sci-board/</link>
+      <link>http://localhost:1313/sci-board/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aatacc.org/sci-board/</guid>
+      <guid>http://localhost:1313/sci-board/</guid>
       <description>&lt;div id=&#34;password-gate&#34; style=&#34;text-align: center; margin-top: 50px;&#34;&gt;&#xA;  &lt;h3&gt;Scientific Board Access&lt;/h3&gt;&#xA;  &lt;p&gt;Please enter the password to continue.&lt;/p&gt;&#xA;  &lt;form onsubmit=&#34;checkPassword(event)&#34;&gt;&#xA;    &lt;input type=&#34;password&#34; id=&#34;password&#34; placeholder=&#34;Password&#34; required style=&#34;padding: 8px; font-size: 16px;&#34;&gt;&#xA;    &lt;br&gt;&lt;br&gt;&#xA;    &lt;button type=&#34;submit&#34; style=&#34;padding: 10px 20px; font-size: 16px;&#34;&gt;Enter&lt;/button&gt;&#xA;  &lt;/form&gt;&#xA;  &lt;p id=&#34;error-message&#34; style=&#34;color: red; display: none; margin-top: 10px;&#34;&gt;Incorrect password. Please try again.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;script&gt;&#xA;  function checkPassword(event) {&#xA;    event.preventDefault(); // Prevents the form from submitting the traditional way&#xA;    var password = document.getElementById(&#39;password&#39;).value;&#xA;    var errorMessage = document.getElementById(&#39;error-message&#39;);&#xA;&#xA;    // The password is &#34;isodesmic&#34;.&#xA;    // We check against a simple &#34;hashed&#34; version for minor obfuscation.&#xA;    // &#39;isodesmic&#39; reversed is &#39;cimsedosi&#39;&#xA;    if (password.split(&#39;&#39;).reverse().join(&#39;&#39;) === &#39;cimsedosi&#39;) {&#xA;      // Correct password, redirect to the secret page.&#xA;      window.location.href = &#39;/internal/board-members/&#39;;&#xA;    } else {&#xA;      // Incorrect password, show error message.&#xA;      errorMessage.style.display = &#39;block&#39;;&#xA;    }&#xA;  }&#xA;&lt;/script&gt;</description>
     </item>
   </channel>
