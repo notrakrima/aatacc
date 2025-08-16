@@ -16,3 +16,9 @@
   to = "/awards/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/about/"
+  to = "/about/mission/"
+  status = 301
+  force = true
