@@ -7,17 +7,12 @@ theme = 'netlify-basic'
   math = true
 
 # ===========================================================================
-# Main Navigation Menu (using theme-compatible syntax)
-# ===========================================================================
-
-[[menu.main]]
-# ===========================================================================
 # AATACC Main Navigation Menu
 # ===========================================================================
 
 [[menu.main]]
   name = "About"
-  url = "/about/"
+  url = "/about/mission/" # <-- Directs the top-level link to the mission page
   weight = 20
   identifier = "about"
 
@@ -37,15 +32,19 @@ theme = 'netlify-basic'
   name = "Awards"
   url = "/awards/"
   weight = 30
-  hasChildren = true
-  [[menu.main.children]]
-    name = "Distinguished Lecturers"
-    url = "/awards-funding/distinguished-lecturers/"
-    weight = 1
-  [[menu.main.children]]
-    name = "International Fellows"
-    url = "/awards-funding/international-fellows/"
-    weight = 2
+  identifier = "awards" # <-- FIX: Added identifier for consistency
+
+[[menu.main]]
+  name = "Distinguished Lecturers"
+  url = "/awards/distinguished-lecturers/" # <-- FIX: Corrected URL path
+  parent = "awards"
+  weight = 1
+
+[[menu.main]]
+  name = "International Fellows"
+  url = "/awards/international-fellows/" # <-- FIX: Corrected URL path
+  parent = "awards"
+  weight = 2
 
 [[menu.main]]
   name = "Contact"
