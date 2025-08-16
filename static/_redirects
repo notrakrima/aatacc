@@ -1,3 +1,4 @@
 /internal/board-members/*  200!  Role=board-member
 /    /about/mission/    301
 /awards-funding/   /awards/   301
+# Forcing a re-read of this file
