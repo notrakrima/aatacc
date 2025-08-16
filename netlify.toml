@@ -12,12 +12,6 @@
   conditions = {Role = ["board-member"]}
 
 [[redirects]]
-  from = "/"
-  to = "/about/mission/"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/awards-funding/"
   to = "/awards/"
   status = 301
