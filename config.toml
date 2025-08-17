@@ -17,12 +17,6 @@ theme = 'netlify-basic'
   identifier = "about"
 
 [[menu.main]]
-  name = "Mission"
-  url = "/about/mission/"
-  parent = "about"
-  weight = 10
-
-[[menu.main]]
   name = "Board"
   url = "/about/board/"
   parent = "about"
